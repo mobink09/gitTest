@@ -1,6 +1,6 @@
 I am Mobin Arshad khan starting to learn git right now and i hope that i will be master in it
 This is all about my text file that is going to explain the commends that i learned from the tutorials
-Follwings are the tutorials that i followings
+Follwings are the tutorials that i followed:
 
 1) Pluralsight
 
@@ -26,4 +26,13 @@ Commonds
      git init
 
 5) git add . (add the file to the index)  
-      . represent the current(working folder) file/folder of the project
+     . represent the current( working folder ) file/folder of the project
+
+6) git status 
+      to check the status of file / folder
+
+7) git commit -m "this is our first commits"
+    it pushes the files to the repository generals means it crate the snapshot for the files 
+
+8) git log 
+      history of git files  
