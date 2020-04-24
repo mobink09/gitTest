@@ -1,0 +1,29 @@
+I am Mobin Arshad khan starting to learn git right now and i hope that i will be master in it
+This is all about my text file that is going to explain the commends that i learned from the tutorials
+Follwings are the tutorials that i followings
+
+1) Pluralsight
+
+
+
+
+
+
+
+Commonds 
+*************************************************
+1) echo "Mobin Arshad khan"  or echo Mobin Arshad Khan
+         Mobin Arshad khan 
+        
+
+2) mkdir directoryName (make directory)
+     mkdir git
+
+3) cd nameOfDirectory ( chane directory)
+     cd git    
+
+4) git init (initializing the git)
+     git init
+
+5) git add . (add the file to the index)  
+      . represent the current(working folder) file/folder of the project
