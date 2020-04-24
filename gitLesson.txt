@@ -10,7 +10,7 @@ Follwings are the tutorials that i followed:
 
 
 
-Commonds 
+Lecture 1
 *************************************************
 1) echo "Mobin Arshad khan"  or echo Mobin Arshad Khan
          Mobin Arshad khan 
@@ -46,3 +46,7 @@ Commonds
       Traveling Back and fourth in time
       git checkout 4dj4e5 (to get targeted version of files)      
         
+
+
+Lecture 2
+*************************************************
