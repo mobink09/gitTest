@@ -41,4 +41,8 @@ Commonds
       git diff tell about the what is changed in previous commit 
       ctrl + z ( to get out from files)    
       
+
+10) One of the most important reason to use version control system is:
+      Traveling Back and fourth in time
+      git checkout 4dj4e5 (to get targeted version of files)      
         
