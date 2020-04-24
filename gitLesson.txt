@@ -36,3 +36,9 @@ Commonds
 
 8) git log 
       history of git files  
+
+9) git diff 84f6c4 954d3b 
+      git diff tell about the what is changed in previous commit 
+      ctrl + z ( to get out from files)    
+      
+        
